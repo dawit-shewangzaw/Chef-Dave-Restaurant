@@ -19,7 +19,7 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_logo">
-        <h2 className="cheif_name">Cheif Dave</h2>
+        <h2 className="cheif_name">Chef Dave</h2>
         <p className="p__opensans">&quot;Join us on a journey of discovery and growth.&quot;</p>
         <img src={images.spoon} alt='Spoon' className="spoon__img" style={{ marginTop: 15 }} />
         <div className="app__footer-links_icons">
@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2024 Cheif Dave. All Rights reserved.</p>
+      <p className="p__opensans">2024 Chef Dave. All Rights reserved.</p>
     </div>
 
   </div>

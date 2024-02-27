@@ -20,7 +20,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 
-export default {
+const images = {
   bg,
   chef,
   gallery01,
@@ -42,3 +42,4 @@ export default {
   sign,
   quote,
 };
+export default images;
